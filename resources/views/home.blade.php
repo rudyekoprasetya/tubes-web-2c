@@ -38,7 +38,7 @@
             <div class="collapse navbar-collapse" id="mainNavigation">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#galeri">Galeri</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/galeri">Galeri</a></li>
                     <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
                 </ul>
             </div>
@@ -52,7 +52,7 @@
                     <p class="text-uppercase fw-semibold mb-2">Cerita indah dimulai di sini</p>
                     <h1 class="display-3 fw-bold">Temukan pesona Nusantara</h1>
                     <p class="lead my-4">Jelajahi keindahan alam, budaya, dan tempat-tempat istimewa di Indonesia.</p>
-                    <a class="btn btn-success btn-lg" href="#galeri">Lihat Galeri</a>
+                    <a class="btn btn-success btn-lg" href="/galeri">Lihat Galeri</a>
                 </div>
             </div>
         </section>
