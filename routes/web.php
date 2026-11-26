@@ -10,3 +10,7 @@ Route::get('/', function () {
 Route::get('/galeri', function () {
     return view('galeri');
 });
+
+route::get('/about', function () {
+    return view('about');
+});
